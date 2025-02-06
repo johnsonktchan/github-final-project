@@ -1,2 +1,12 @@
 # github-final-project
-This is the part 1 of final project of Coursera course - Getting stated with Git and GitHub
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
+#Structure 
+github-final-project/simple-interest.sh :  This script calculates simple interest given principal, annual rate of interest and time period in years. 
